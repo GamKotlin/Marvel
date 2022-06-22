@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="id">"Id: "</string>
+    <string name="modified">"Modified: "</string>
+    <string name="name">"Name: "</string>
+    <string name="description">"Description: "</string>
+    <string name="comics">" Comics: "</string>
+    <string name="series">" Series: "</string>
+    <string name="stories">" Stories: "</string>
+    <string name="notPassedItemId">"No item id was passed to destination."</string>
+    <string name="numberCharacters">"Number of characters: "</string>
+    <string name="noFoundCharacters">"No marvel characters found"</string>
+    <string name="noFoundCharacter">"No marvel character found"</string>
+    <string name="searching">"Searching marvel characters…"</string>
+</resources>
